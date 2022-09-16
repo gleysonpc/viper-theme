@@ -1,7 +1,6 @@
 {
 	"name": "Viper Theme",
-	"include": "./ui.json",
-	"tokenColors": [
+	"include": "./ui.json","tokenColors": [
 		{
 			"scope": [
 				"strong"
@@ -871,4 +870,5 @@
 			}
 		}
 	]
+	
 }
